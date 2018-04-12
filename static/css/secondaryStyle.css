@@ -1,0 +1,29 @@
+body {
+	background-image: url(C:/Users/Marshall Smith/Desktop/InternetProgramming/Final Project/static/images/carbonFiber.jpg);
+}
+.content p{
+	font-size: 150%;
+}
+.content img {
+	width: 300px;
+	height: 200px;
+}
+.rowbottom{
+	margin-bottom: 2em;
+}
+.navbar{
+	background-color: black;
+}
+.navbar ul li a{
+	color: white;
+}
+.navbar ul li a:hover{
+	background-color: white
+	color: black;
+}
+
+.indexHeader{
+	background-image: url("C:/Users/Marshall Smith/Desktop/InternetProgramming/Final Project/static/images/indexCamaro.jpeg");
+	height: 100%;
+}
+
